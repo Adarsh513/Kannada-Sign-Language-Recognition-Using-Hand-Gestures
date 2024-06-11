@@ -1,3 +1,6 @@
+Project Demo Vedio:
+https://drive.google.com/file/d/1K4YK4XWAWewvdVk4cGq-nQi0oCg6aRST/view?usp=drivesdk
+
 # Kannada-Sign-Language-Recognition-Using-Hand-Gestures
 
 Technologies used python,ML,Mediapipe,Tensorflow. The system is able to indentify the sign and predict the sign in high accuracy.
@@ -23,3 +26,5 @@ tensorflow :2.9.1
 5.Run -> Test File -> The project will be executed
 
 **********************************************************************************************************************
+
+
